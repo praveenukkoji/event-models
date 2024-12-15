@@ -36,6 +36,8 @@ public class PaymentEvent {
 ## Adding Dependency to Your Project
 You can include the event-models library as a dependency in your Maven.
 
+Also, you can visit maven central repo [link](https://search.maven.org/artifact/io.github.praveenukkoji/event-models)
+
 ```xml
 <dependency>
     <groupId>io.github.praveenukkoji</groupId>
