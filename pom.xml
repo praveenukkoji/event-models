@@ -8,7 +8,7 @@
 		<version>3.4.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.praveenukkoji</groupId>
+	<groupId>io.github.praveenukkoji</groupId>
 	<artifactId>event-models</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>

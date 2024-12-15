@@ -1,4 +1,4 @@
-package com.praveenukkoji.events;
+package io.github.praveenukkoji.events;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

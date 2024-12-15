@@ -1,4 +1,4 @@
-package com.praveenukkoji.events;
+package io.github.praveenukkoji.events;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
