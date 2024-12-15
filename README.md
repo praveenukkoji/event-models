@@ -44,5 +44,11 @@ You can include the event-models library as a dependency in your Maven.
 </dependency>
 ```
 
+## Steps to deploy new version on maven central repo
+
+```text 
+   mvn clean deploy
+```
+
 ## License
 This project is licensed under the PraveenUkkoji's Org.
