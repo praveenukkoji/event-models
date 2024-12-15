@@ -15,7 +15,7 @@
 
 	<name>event-models</name>
 	<description>Kafka Event Models</description>
-	<url/>
+	<url>https://github.com/praveenukkoji/event-models</url>
 
 	<licenses>
 		<license>
@@ -186,9 +186,9 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/librbary/librbary-retry.git</connection>
-		<developerConnection>scm:git:ssh://github.com:librbary/librbary-retry.git</developerConnection>
-		<url>https://github.com/librbary/librbary-retry</url>
+		<connection>scm:git:git://github.com/praveenukkoji/event-models.git</connection>
+		<developerConnection>scm:git:ssh://github.com/praveenukkoji/event-models.git</developerConnection>
+		<url>https://github.com/praveenukkoji/event-models</url>
 	</scm>
 
 </project>
