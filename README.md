@@ -1,3 +1,4 @@
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.praveenukkoji/event-models?label=Maven%20Central)](https://central.sonatype.com/artifact/io.github.praveenukkoji/event-models)
 # Event Models
 
 `event-models` is a library that provides Kafka-style event formats for common events such as `OrderEvent` and `PaymentEvent`. It is designed for use in microservice architectures, where events are sent through Kafka. This library can be integrated into your project as a dependency from Maven Central.
